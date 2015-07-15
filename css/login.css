@@ -1,0 +1,117 @@
+body,ul,li,p,h1,h3{
+	padding: 0;
+	margin: 0;
+}
+*:focus {outline: none;}
+a{
+	text-decoration: none;
+	color: ;
+}	
+i{
+	font-style: normal;
+}
+li{
+	list-style: none;
+}
+body{
+	background: #26172A  url(../img/bg_img.jpg) no-repeat center 0;
+	overflow: hidden;
+	margin: 0 auto;
+}
+input{
+	padding: 0;
+	width: 355px;
+}
+.page{
+	width: 1024px;
+	height: 1080px;
+	background:url(../img/bg_03.jpg) no-repeat ;
+	margin: 0 auto;
+	overflow: hidden;
+	
+}
+.logo{
+	width: 235px;
+	height: 33px;
+	margin: 0 auto;
+	margin-top: 180px;
+}
+.state{
+	text-align: center;
+	color: #fff;
+	font-size: 34px;
+	width: 388px;
+	height: 38px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.Name,.Passw,.btn{
+	width: 397px;
+	border-bottom:1px solid #fff;
+	margin: 0 auto;
+}
+.btn{
+	border:none;
+	margin-top: 48px;
+}
+input{
+	background: none;
+	border: none;
+	color: #e5e5e5;
+	padding-left:15px ;
+	font-size: 18px;
+}
+.Name i{
+	display: inline-block;
+	width: 26px;
+	height: 23px;
+	background: url(../img/icon_01.png) no-repeat;
+}
+.Passw i{
+	display: inline-block;
+	width: 26px;
+	height: 23px;
+	background: url(../img/icon_02.png) no-repeat;
+}
+.out{
+	margin-top: 100px;
+}
+.Passw{
+	margin-top: 60px;
+}
+.btn input{
+	background: url(../img/icon_05.jpg);
+	width: 100%;
+	height: 54px;
+	color:#cfc8d1 ;
+	cursor: pointer;
+	padding: 0;
+	font-size: 22px;
+}
+h3 {
+    color: #DAD4DB;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 115px;
+}
+.hr_1{
+	width: 600px;
+	height: 3px;
+	background: url(../img/icon_03.png);
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.hr_2{
+	width: 320px;
+	height: 20px;
+	background: url(../img/icon_04.png);
+	margin: 15px auto 5px;
+}
+.botm{
+	text-align: center;
+}
+.botm span{
+	display: block;
+	font-size: 13px;
+	color:#DAD4DB ;
+}
